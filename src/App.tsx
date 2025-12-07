@@ -69,7 +69,7 @@ function App() {
         alignItems: 'center',
         gap: '2rem'
       }}>
-        
+
 
         <h1
           className="animate-slide-up delay-100"
@@ -85,7 +85,7 @@ function App() {
             transition: 'transform 0.1s ease-out'
           }}
         >
-          404
+          WIP
         </h1>
 
         <div className="animate-slide-up delay-200">
@@ -94,7 +94,7 @@ function App() {
             fontWeight: 400,
             marginBottom: '1rem'
           }}>
-            Temporarily <span style={{ color: '#ff4d4d' }}>Shutdown</span>
+            Under <span style={{ color: '#ff4d4d' }}>Construction</span>
           </h2>
           <p style={{
             color: 'var(--text-secondary)',
@@ -103,7 +103,7 @@ function App() {
             margin: '0 auto',
             lineHeight: 1.6
           }}>
-            The page you are looking for is currently unavailable due to scheduled maintenance. We'll be back online shortly.
+            Within a couple of days the website will be fully functional.
           </p>
         </div>
 
